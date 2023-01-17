@@ -167,6 +167,7 @@
         </h1>
       </div>
     </section>
+    <!-- changes are made -->
     <section>
       <div class="flex flex-col md:flex-row m-auto w-5/6 text-center  ">
         <div class="m-4 shadow-lg overflow-hidden pb-4 rounded-b-2xl  flex flex-col content-center items-center justify-center ">
