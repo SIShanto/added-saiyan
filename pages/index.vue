@@ -157,7 +157,7 @@
       </div>
     </section>
     <section>
-      <div class="mx-auto text-center mb-10 max-w-6xl">
+      <div class="mx-auto text-center mb-10 max-w-6xl ">
         <h1
           class="mx-auto text-center font-bold text-3xl lg:text-5xl"
           data-aos="fade-up"
