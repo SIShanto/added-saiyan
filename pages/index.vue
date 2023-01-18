@@ -155,7 +155,7 @@
           </div>
         </div>
       </div>
-    </section>
+    </section>-lg transition duration-150 ease-out hover:ease-in
     <section>
       <div class="mx-auto text-center mb-10 max-w-6xl">
         <h1
@@ -171,15 +171,15 @@
       <div class="flex flex-col md:flex-row m-auto w-5/6 text-center  ">
         <div class="m-4 shadow-lg overflow-hidden pb-4 rounded-b-2xl  flex flex-col content-center items-center justify-center ">
           <img src="https://images.pexels.com/photos/265216/pexels-photo-265216.jpeg" alt="crop image " srcset="">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eum nihil quos corrupti, quisquam fugiat libero nisi assumenda qui optio modi?
-          <button type="submit" class="bg-green-400 hover:bg-green-300 text-white font-bold py-1 px-4 border-b-4 border-green-600 hover:border-green-400  rounded mt-2" >More..</button>
+          <button type="submit" class="bg-green-100 hover:bg-green-300 text-white font-bold py-1 px-4 border-b-4 border-green-600 hover:border-green-400  rounded-lg transition duration-300 ease-out hover:ease-in mt-2" >More..</button>
         </div>
         <div class="m-4 shadow-lg  overflow-hidden pb-4 rounded-b-2xl flex flex-col content-center items-center justify-center ">
           <img src="https://images.pexels.com/photos/265216/pexels-photo-265216.jpeg" alt="crop image " srcset="">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eum nihil quos corrupti, quisquam fugiat libero nisi assumenda qui optio modi?
-          <button type="submit" class="bg-green-400 hover:bg-green-300 text-white font-bold py-1 px-4 border-b-4 border-green-600 hover:border-green-400  rounded mt-2">More..</button>
+          <button type="submit" class="bg-green-100 hover:bg-green-300 text-white font-bold py-1 px-4 border-b-4 border-green-600 hover:border-green-400  rounded-lg transition duration-300 ease-out hover:ease-in mt-2">More..</button>
         </div>
         <div class=" m-4 pb-4 shadow-lg overflow-hidden rounded-b-2xl flex flex-col content-center items-center justify-center ">
           <img src="https://images.pexels.com/photos/265216/pexels-photo-265216.jpeg" alt="crop image " srcset="">Lorem ipsum dolor sit, amet consectetur adipisicing elit. Eum nihil quos corrupti, quisquam fugiat libero nisi assumenda qui optio modi?
-          <button type="submit" class="bg-green-400 hover:bg-green-300 text-white font-bold py-1 px-4 border-b-4 border-green-600 hover:border-green-400 rounded mt-2">More..</button>
+          <button type="submit" class="bg-green-100 hover:bg-green-300 text-white font-bold py-1 px-4 border-b-4 border-green-600 hover:border-green-400 rounded-lg transition duration-300 ease-out hover:ease-in mt-2">More..</button>
         </div>
       </div>
     </section>
