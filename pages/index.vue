@@ -155,7 +155,7 @@
           </div>
         </div>
       </div>
-    </section>-lg transition duration-150 ease-out hover:ease-in
+    </section>
     <section>
       <div class="mx-auto text-center mb-10 max-w-6xl">
         <h1
